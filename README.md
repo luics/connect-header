@@ -33,7 +33,7 @@ To remove header, use `header` middleware and specify `null`.
 
 ## Test
 
-  node header.js
+  node test
 
 
 ## License
