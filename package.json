@@ -1,6 +1,6 @@
 {
   "name":"connect-header",
-  "version":"0.0.1",
+  "version":"0.0.2",
   "description":"General header middleware for Connect.",
   "author":{
     "name":"Luics",
