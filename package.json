@@ -1,28 +1,34 @@
 {
-  "name": "connect-header",
-  "version": "0.0.1",
-  "description": "General header middleware for Connect.",
-  "author": { "name": "Luics", "email": "luics.king@gmail.com", "url": "http://github.com/luics" },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/luics/connect-header.git"
+  "name":"connect-header",
+  "version":"0.0.1",
+  "description":"General header middleware for Connect.",
+  "author":{
+    "name":"Luics",
+    "email":"luics.king@gmail.com",
+    "url":"http://github.com/luics"
   },
-  "bugs": {
-    "url": "http://github.com/luics/connect-header/issues"
+  "repository":{
+    "type":"git",
+    "url":"git://github.com/luics/connect-header.git"
   },
-  "main": "./lib",
-  "dependencies": {
+  "bugs":{
+    "url":"http://github.com/luics/connect-header/issues"
   },
-  "devDependencies": {
-    "vows": "0.6.x"
+  "main":"./lib",
+  "dependencies":{
   },
-  "scripts": {
-    "test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
+  "devDependencies":{
   },
-  "engines": { "node": ">= 0.4.0" },
-  "licenses": [ {
-    "type": "MIT",
-    "url": "http://www.opensource.org/licenses/MIT" 
-  } ],
-  "keywords": ["connect", "express", "header", "general"]
+  "scripts":{
+  },
+  "engines":{
+    "node":">= 0.4.0"
+  },
+  "licenses":[
+    {
+      "type":"MIT",
+      "url":"http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords":["connect", "express", "header", "general"]
 }
