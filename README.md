@@ -30,6 +30,12 @@ To remove header, use `header` middleware and specify `null`.
 
   - [luics](http://github.com/luics)
 
+
+## Test
+
+  node header.js
+
+
 ## License
 
 (The MIT License)

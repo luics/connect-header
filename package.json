@@ -18,6 +18,8 @@
   "dependencies":{
   },
   "devDependencies":{
+    "qunit": "*",
+    "github-flavored-markdown": "*"
   },
   "scripts":{
   },
