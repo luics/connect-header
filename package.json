@@ -9,7 +9,7 @@
   },
   "repository":{
     "type":"git",
-    "url":"git://github.com/luics/connect-header.git"
+    "url":"https://github.com/luics/connect-header.git"
   },
   "bugs":{
     "url":"http://github.com/luics/connect-header/issues"
@@ -18,8 +18,7 @@
   "dependencies":{
   },
   "devDependencies":{
-    "qunit": "*",
-    "github-flavored-markdown": "*"
+    "qunit": "*"
   },
   "scripts":{
   },

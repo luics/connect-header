@@ -33,7 +33,8 @@ To remove header, use `header` middleware and specify `null`.
 
 ## Test
 
-  node test
+    $ npm install
+    $ node test
 
 
 ## License
