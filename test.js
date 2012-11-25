@@ -35,6 +35,6 @@ testrunner.setup({
 
 // Run
 testrunner.run({
-  code:"./lib/header.js",// ./lib/index.js
-  tests:"./test/header.js"
+  code:__dirname + "/lib/header.js", // ./lib/index.js
+  tests:__dirname + "/test/header.js"
 });

@@ -1,6 +1,6 @@
 {
   "name":"connect-header",
-  "version":"0.0.3",
+  "version":"0.0.5",
   "description":"General header middleware for Connect.",
   "author":{
     "name":"Luics",
@@ -18,9 +18,10 @@
   "dependencies":{
   },
   "devDependencies":{
-    "qunit": "*"
+    "qunit":"*"
   },
   "scripts":{
+    "test":"node test"
   },
   "engines":{
     "node":">= 0.4.0"
